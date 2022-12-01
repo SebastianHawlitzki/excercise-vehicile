@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3b80c1-855b-4ef3-8caf-386e8f420cf4" name="Changes" comment="add abstract class, implement jUnit and Lombok">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/AutoTest.java" afterDir="false" />
+    <list default="true" id="be3b80c1-855b-4ef3-8caf-386e8f420cf4" name="Changes" comment="Lösung 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/BikeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Accelerateable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Accelerateable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
     </option>
@@ -33,7 +30,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2IJCLJZSFyDnVrk7sq3Uap4zkgs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -87,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669890244451</updated>
-      <workItem from="1669890245596" duration="11277000" />
+      <workItem from="1669890245596" duration="14188000" />
     </task>
     <task id="LOCAL-00001" summary="init: BIG BANG">
       <created>1669890291133</created>
@@ -110,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669891635193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lösung 1">
+      <created>1669908423172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669908423172</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +135,7 @@
     <MESSAGE value="init: BIG BANG" />
     <MESSAGE value="implement surefire plugin" />
     <MESSAGE value="add abstract class, implement jUnit and Lombok" />
-    <option name="LAST_COMMIT_MESSAGE" value="add abstract class, implement jUnit and Lombok" />
+    <MESSAGE value="Lösung 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lösung 1" />
   </component>
 </project>
