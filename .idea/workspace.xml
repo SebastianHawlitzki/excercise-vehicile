@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3b80c1-855b-4ef3-8caf-386e8f420cf4" name="Changes" comment="implement surefire plugin">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Accelerateable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Vehicle.java" afterDir="false" />
+    <list default="true" id="be3b80c1-855b-4ef3-8caf-386e8f420cf4" name="Changes" comment="add abstract class, implement jUnit and Lombok">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/AutoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Accelerateable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Accelerateable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -25,6 +31,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2IJCLJZSFyDnVrk7sq3Uap4zkgs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,9 +45,40 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.neuefische" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AutoTest.speedOfAutoGetsRaised" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="excercise-vehicle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.neuefische" />
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.AutoTest" />
+      <option name="METHOD_NAME" value="speedOfAutoGetsRaised" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669890244451</updated>
-      <workItem from="1669890245596" duration="833000" />
+      <workItem from="1669890245596" duration="11277000" />
     </task>
     <task id="LOCAL-00001" summary="init: BIG BANG">
       <created>1669890291133</created>
@@ -63,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669890675736</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add abstract class, implement jUnit and Lombok">
+      <created>1669891635193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669891635193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init: BIG BANG" />
     <MESSAGE value="implement surefire plugin" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement surefire plugin" />
+    <MESSAGE value="add abstract class, implement jUnit and Lombok" />
+    <option name="LAST_COMMIT_MESSAGE" value="add abstract class, implement jUnit and Lombok" />
   </component>
 </project>
