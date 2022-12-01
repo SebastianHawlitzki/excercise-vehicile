@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3b80c1-855b-4ef3-8caf-386e8f420cf4" name="Changes" comment="" />
+    <list default="true" id="be3b80c1-855b-4ef3-8caf-386e8f420cf4" name="Changes" comment="init: BIG BANG" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IJCLJZSFyDnVrk7sq3Uap4zkgs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,8 +37,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669890244451</updated>
+      <workItem from="1669890245596" duration="311000" />
     </task>
+    <task id="LOCAL-00001" summary="init: BIG BANG">
+      <created>1669890291133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669890291133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -47,5 +62,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: BIG BANG" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: BIG BANG" />
   </component>
 </project>
